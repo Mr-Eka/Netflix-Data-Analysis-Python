@@ -6,7 +6,7 @@ The goal is to analyze Netflix content and uncover insights related to content t
 
 ## Dataset
 - Dataset: Netflix Movies and TV Shows
-- Source: Kaggle
+- Source: Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - Records: 8,800+ titles
 
 ## Tools & Technologies
